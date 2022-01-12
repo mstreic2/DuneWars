@@ -1,7 +1,9 @@
 # DuneWars
 
 A project from my CS3500 Software Practice 1 class.
+
 University of Utah Fall 2021
+
 By Matt Streicher and Jim Morgan
 
 This class was quite a challenge. Not only was this my first semester at the University of Utah, but also my first introduction to C# and working
